@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="main">
+			<child name="step" key="{B56CC435-D339-47AD-B500-A07BF4A5C1BF}" path="step.js" />
+			<child name="Dictionary" key="{58594BCF-32C4-4A24-A2DD-702A9C9C1EF2}" path="Dictionary.js" />
+		</folder>
+		<folder name="test">
+			<child name="firstrun" key="{BD00AA75-A3C9-44AB-9A7C-5E469CE8C933}" path="firstrun.js" />
+			<child name="TestRun2" key="{2A52F36D-D36D-4116-A9C2-35D20B879C6B}" path="TestRun2.js" />
+		</folder>
+	</children>
+</Root>
