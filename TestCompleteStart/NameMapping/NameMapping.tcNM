@@ -150,6 +150,44 @@
 													</Child>
 												</Children>
 											</Child>
+											<Child Name="Price" Key="{874B7646-FFE7-4AD1-96D1-DC5A947BC691}">
+												<Image FileName="-2126505139" Left="235" Top="82" Right="315" Bottom="102" />
+												<TypeInfo Item0="{989119C7-5860-456D-A8A1-CC7AB64D792C}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="Price" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Discount" Key="{A1526875-F276-4BE9-A28C-C566B86F0516}">
+												<Image FileName="654732366" Left="387" Top="82" Right="467" Bottom="102" />
+												<TypeInfo Item0="{989119C7-5860-456D-A8A1-CC7AB64D792C}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="Discount" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="groupBox1" Key="{740F339B-95A5-414E-887F-BF48FD671604}">
+												<Image FileName="184841930" Left="323" Top="106" Right="467" Bottom="154" />
+												<TypeInfo Item0="{5BF93BFC-A214-4D82-BA44-FE56D21D9867}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="groupBox1" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Total" Key="{92C56879-5C1B-4A28-987E-C0D46F049E20}">
+														<Image FileName="184841930" Left="387" Top="122" Right="459" Bottom="142" />
+														<TypeInfo Item0="{989119C7-5860-456D-A8A1-CC7AB64D792C}" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="Total" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
 										</Children>
 									</Child>
 									<Child Name="ButtonOK" Key="{33E9FBA8-D61E-4964-8361-FA8250C6B7C6}">
@@ -224,6 +262,11 @@
 					<Child Name="CardNo" Owner="{C0462539-9EBD-478C-A712-130A0C8446A9}" />
 					<Child Name="Quantity" Owner="{B59722B2-EE64-4FE0-9F23-C513EC4BC83E}">
 						<Child Name="UpDownEdit" Owner="{2C714496-DAEC-4C6D-9291-AAB2E3CAAECD}" />
+					</Child>
+					<Child Name="Price" Owner="{874B7646-FFE7-4AD1-96D1-DC5A947BC691}" />
+					<Child Name="Discount" Owner="{A1526875-F276-4BE9-A28C-C566B86F0516}" />
+					<Child Name="groupBox1" Owner="{740F339B-95A5-414E-887F-BF48FD671604}">
+						<Child Name="Total" Owner="{92C56879-5C1B-4A28-987E-C0D46F049E20}" />
 					</Child>
 				</Child>
 				<Child Name="ButtonOK" Owner="{33E9FBA8-D61E-4964-8361-FA8250C6B7C6}" />

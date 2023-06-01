@@ -7,12 +7,36 @@
 		<child name="Script" key="{1DADF77D-7CCD-450F-AB9C-964716766163}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script" path="Script\Script.tcScript" />
 		<child name="KeywordTests" key="{6986AF0C-C596-410A-8962-69E39D51519B}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing" path="KeywordTests\KeywordTests.tcKDT" />
 		<child name="NameMapping" key="{0318209D-91CE-4931-95D8-C5D2909DF0FD}" type="Name Mapping" typeId="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" pluginName="NameMapping" path="NameMapping\NameMapping.tcNM" />
+		<child name="ImageRepository" key="{7D9F8152-AEDD-43F3-AB2C-D6207515DFE0}" type="Image Repository" typeId="{E7C36009-4A66-4899-99AE-DEFC5C22C057}" pluginName="" path="ImageRepository\ImageRepository.tcIR" />
 	</children>
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{2D8896D0-28B6-4D02-823D-510639822FE9}" version="14">
 		<children />
 	</testItems>
-	<variables key="{2BC6BCB2-EB6D-431E-AAC0-9E4B04727D91}" />
+	<variables key="{2BC6BCB2-EB6D-431E-AAC0-9E4B04727D91}">
+		<data Version="4">
+			<Items>
+				<Variable Name="CustomerName" Type="String" Local="False">
+					<DefValue StrValue="Lasha" />
+				</Variable>
+				<Variable Name="Street" Type="String" Local="False">
+					<DefValue StrValue="M.Gagkhokidze" />
+				</Variable>
+				<Variable Name="City" Type="String" Local="False">
+					<DefValue StrValue="Tbilisi" />
+				</Variable>
+				<Variable Name="State" Type="String" Local="False">
+					<DefValue StrValue="Tbilisii" />
+				</Variable>
+				<Variable Name="Zip" Type="String" Local="False">
+					<DefValue StrValue="6100" />
+				</Variable>
+				<Variable Name="CardNo" Type="String" Local="False">
+					<DefValue StrValue="123456789" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
 	<settings key="{0381273E-A5DF-41AD-81EB-D8A82F733E95}">
 		<settingsVersion value="15.51" />
 		<setting name="AgOpenApp_ExtendedSilverlightObjectTree" type="1" value="False" />

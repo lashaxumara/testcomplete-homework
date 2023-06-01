@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{E7C36009-4A66-4899-99AE-DEFC5C22C057}" version="1400" key="{7D9F8152-AEDD-43F3-AB2C-D6207515DFE0}" typeId="{E7C36009-4A66-4899-99AE-DEFC5C22C057}">
+	<config nodeName="ImageRepository" />
+	<testData />
+	<data />
+	<children>
+		<child key="{FAEE955C-7A65-4A18-A907-221F68657EDB}" path="DesktomOrderIMG.tcIRIS" />
+	</children>
+</Root>
