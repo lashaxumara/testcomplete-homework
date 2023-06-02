@@ -20,5 +20,17 @@
 				<child name="TestRunners" key="{9369CE20-48D5-4E52-A4F6-4747EAE79D95}" path="TestRunners.js" />
 			</folder>
 		</folder>
+		<folder name="thirdTask">
+			<folder name="Main">
+				<child name="ConcatenateFunc" key="{F5D75F93-42C7-42D5-BECC-C52267680DF8}" path="ConcatenateFunc.js" />
+				<child name="ThirdData" key="{0B4735E9-960F-4E4F-91B6-44B694005DBB}" path="ThirdData.js" />
+				<child name="ThirdPages" key="{94F255A3-8101-4C54-92FA-C81212AB4CAF}" path="ThirdPages.js" />
+				<child name="Common1" key="{D467875E-36AE-41E7-9271-882CAC4224B8}" path="Common1.js" />
+			</folder>
+			<folder name="Test">
+				<child name="TestCase" key="{892BC1DA-DF38-42D9-8309-AC6A063F8377}" path="TestCase.js" />
+				<child name="TestRun" key="{4EC60C78-2DA2-4AD2-9AAF-CFFD6BAD8921}" path="TestRun.js" />
+			</folder>
+		</folder>
 	</children>
 </Root>
