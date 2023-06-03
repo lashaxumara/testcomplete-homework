@@ -9,5 +9,16 @@
 			<child name="firstrun" key="{BD00AA75-A3C9-44AB-9A7C-5E469CE8C933}" path="firstrun.js" />
 			<child name="TestRun2" key="{2A52F36D-D36D-4116-A9C2-35D20B879C6B}" path="TestRun2.js" />
 		</folder>
+		<folder name="secondTask">
+			<folder name="Main">
+				<child name="Common" key="{74C96E21-B6A7-4302-A374-2AE4C2847E77}" path="Common.js" />
+				<child name="Data" key="{B6E24D8A-7D15-4C8F-A123-F117F32844CD}" path="Data.js" />
+				<child name="Pages" key="{238AEE0A-5109-4E6E-8F3C-A35D0548667A}" path="Pages.js" />
+			</folder>
+			<folder name="Test">
+				<child name="TestCases" key="{6ED66CFB-7593-4597-9356-F755F7A94786}" path="TestCases.js" />
+				<child name="TestRunners" key="{9369CE20-48D5-4E52-A4F6-4747EAE79D95}" path="TestRunners.js" />
+			</folder>
+		</folder>
 	</children>
 </Root>
