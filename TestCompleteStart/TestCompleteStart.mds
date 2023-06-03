@@ -8,6 +8,7 @@
 		<child name="KeywordTests" key="{6986AF0C-C596-410A-8962-69E39D51519B}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing" path="KeywordTests\KeywordTests.tcKDT" />
 		<child name="NameMapping" key="{0318209D-91CE-4931-95D8-C5D2909DF0FD}" type="Name Mapping" typeId="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" pluginName="NameMapping" path="NameMapping\NameMapping.tcNM" />
 		<child name="ImageRepository" key="{7D9F8152-AEDD-43F3-AB2C-D6207515DFE0}" type="Image Repository" typeId="{E7C36009-4A66-4899-99AE-DEFC5C22C057}" pluginName="" path="ImageRepository\ImageRepository.tcIR" />
+		<child name="Events" key="{B1D6AC72-71FA-4DFE-8FBF-6109A428A003}" type="Events" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" pluginName="" path="Events\Events.tcAX" />
 	</children>
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{2D8896D0-28B6-4D02-823D-510639822FE9}" version="14">
