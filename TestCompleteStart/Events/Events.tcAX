@@ -4,23 +4,8 @@
 	<testData />
 	<data />
 	<children>
-		<child key="{86D089C8-9489-4609-9660-42721771D966}">
-			<config nodeName="Events" lastOpenedTLB="" generatedCLSID="{CB581D9A-8B73-4A7F-A70A-73D41A81C27D}" generatedTLBKey="{2E46790A-8412-4EFE-887F-1BC8098436A9}" generatedEventsKey="{9D22AA57-BFE6-49A6-9887-AEA062916CCD}" generatedTLBDesc="TestComplete Events Control - 6/2/2023 4:53:08 PM">
-				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743821" infoControlName="General Events" infoEventName="OnLogCheckpoint" infoEventRealName="OnLogCheckpoint" infoDescription="Occurs when a checkpoint is posted to the test log." />
-				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743817" infoControlName="General Events" infoEventName="OnLogCloseNode" infoEventRealName="OnLogCloseNode" infoDescription="Occurs when the currently active parent node is closed in the test log." />
-				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743816" infoControlName="General Events" infoEventName="OnLogCreateNode" infoEventRealName="OnLogCreateNode" infoDescription="Occurs when a parent node is created in the test log." />
-				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743811" infoControlName="General Events" infoEventName="OnLogError" infoEventRealName="OnLogError" infoDescription="Occurs when an error message is posted to the test log." />
-				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743812" infoControlName="General Events" infoEventName="OnLogEvent" infoEventRealName="OnLogEvent" infoDescription="Occurs when an event notification is posted to the test log." />
-				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743814" infoControlName="General Events" infoEventName="OnLogFile" infoEventRealName="OnLogFile" infoDescription="Occurs when a file is posted to the test log." />
-				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743815" infoControlName="General Events" infoEventName="OnLogLink" infoEventRealName="OnLogLink" infoDescription="Occurs when a reference to a file is posted to the test log." />
-				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743809" infoControlName="General Events" infoEventName="OnLogMessage" infoEventRealName="OnLogMessage" infoDescription="Occurs when an informative message is posted to the test log." />
-				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743813" infoControlName="General Events" infoEventName="OnLogPicture" infoEventRealName="OnLogPicture" infoDescription="Occurs when an image is posted to the test log." />
-				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743810" infoControlName="General Events" infoEventName="OnLogWarning" infoEventRealName="OnLogWarning" infoDescription="Occurs when a warning message is posted to the test log." />
-				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743819" infoControlName="General Events" infoEventName="OnOverlappingWindow" infoEventRealName="OnOverlappingWindow" infoDescription="Occurs when an overlapping window appears." />
-				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743820" infoControlName="General Events" infoEventName="OnTimeout" infoEventRealName="OnTimeout" infoDescription="Occurs when a timeout expires in a project or in a project suite." />
-				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743818" infoControlName="General Events" infoEventName="OnUnexpectedWindow" infoEventRealName="OnUnexpectedWindow" infoDescription="Occurs when an unexpected window appears." />
-				<handlerInfo handlerName="Events_OnLogCheckpoint" handlerMoniker="{4EC60C78-2DA2-4AD2-9AAF-CFFD6BAD8921}Events_OnLogCheckpoint" handlerEventName="OnLogCheckpoint" handlerRealIID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" handlerRealDispID="1610743821" />
-			</config>
+		<child key="{DCB31618-B32E-49BB-89DB-7AB23CA7CB42}">
+			<config nodeName="AssertFail" lastOpenedTLB="" generatedCLSID="{00000000-0000-0000-0000-000000000000}" generatedTLBKey="{00000000-0000-0000-0000-000000000000}" generatedEventsKey="{00000000-0000-0000-0000-000000000000}" generatedTLBDesc="TestComplete AssertFail Control - 6/6/2023 1:42:38 PM" />
 			<testData />
 			<data />
 		</child>
