@@ -23,9 +23,11 @@ function testCase(){
   Sys.Keys("^A")
   Sys.Keys("[BS]")
   checkStreetLabel;
+  cityStreetNo;
   street;
+  zip;
+  city;
   acceptOrder;
   cancelOrder;
 
 }
-module.exports.testCase = testCase;

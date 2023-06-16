@@ -32,5 +32,19 @@
 				<child name="TestRun" key="{4EC60C78-2DA2-4AD2-9AAF-CFFD6BAD8921}" path="TestRun.js" />
 			</folder>
 		</folder>
+		<folder name="testcomplete-API">
+			<folder name="Main">
+				<child name="Common4" key="{59A473C6-CB6B-424C-9CEC-B386BBE7B473}" path="Common4.js" />
+				<child name="Steps4" key="{3A659EE1-AE9C-4B3E-ADA7-82B44E737EDB}" path="Steps4.js" />
+				<child name="Data4" key="{A92C2871-F2C2-4F0D-955A-294B49B9B416}" path="Data4.js" />
+				<child name="API" key="{C1833D8C-1CDF-4E01-B565-10D4BCD9AE0C}" path="API.js" />
+			</folder>
+			<folder name="Test">
+				<child name="TestCase4" key="{A7A04E88-0FE6-4A60-AD0B-F6A5A1553499}" path="TestCase4.js" />
+				<child name="TestRunner4" key="{79572457-1891-40CC-A1D4-F0B0D1B012C6}" path="TestRunner4.js" />
+				<child name="TestCaseKey" key="{7A172976-72A4-4F98-B700-D92A26E623D4}" path="TestCaseKey.js" />
+				<child name="TestCaseActivity" key="{F8FA3F18-CAB9-4116-823D-D541E5A6877A}" path="TestCaseActivity.js" />
+			</folder>
+		</folder>
 	</children>
 </Root>

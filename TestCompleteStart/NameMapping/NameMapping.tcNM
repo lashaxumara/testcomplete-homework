@@ -188,6 +188,33 @@
 													</Child>
 												</Children>
 											</Child>
+											<Child Name="Visa" Key="{9875BDCD-4415-462E-A224-3AAD8E232862}">
+												<Image FileName="-1401187214" Left="115" Top="290" Right="243" Bottom="314" />
+												<TypeInfo Item0="{7C49D09B-E754-4688-9356-5157E28F9294}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="Visa" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="MasterCard" Key="{846200CA-2C0B-47FB-B16D-D70041534547}">
+												<Image FileName="67089495" Left="115" Top="314" Right="243" Bottom="338" />
+												<TypeInfo Item0="{7C49D09B-E754-4688-9356-5157E28F9294}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="MasterCard" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="AE" Key="{D845A3E7-0387-47E9-946A-4979EEAF7091}">
+												<Image FileName="381843201" Left="115" Top="338" Right="243" Bottom="362" />
+												<TypeInfo Item0="{7C49D09B-E754-4688-9356-5157E28F9294}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="AE" />
+													</Property>
+												</Properties>
+											</Child>
 										</Children>
 									</Child>
 									<Child Name="ButtonOK" Key="{33E9FBA8-D61E-4964-8361-FA8250C6B7C6}">
@@ -268,6 +295,9 @@
 					<Child Name="groupBox1" Owner="{740F339B-95A5-414E-887F-BF48FD671604}">
 						<Child Name="Total" Owner="{92C56879-5C1B-4A28-987E-C0D46F049E20}" />
 					</Child>
+					<Child Name="Visa" Owner="{9875BDCD-4415-462E-A224-3AAD8E232862}" />
+					<Child Name="MasterCard" Owner="{846200CA-2C0B-47FB-B16D-D70041534547}" />
+					<Child Name="AE" Owner="{D845A3E7-0387-47E9-946A-4979EEAF7091}" />
 				</Child>
 				<Child Name="ButtonOK" Owner="{33E9FBA8-D61E-4964-8361-FA8250C6B7C6}" />
 			</Child>
